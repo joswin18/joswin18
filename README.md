@@ -1,4 +1,4 @@
-## Hi there, I'm joswin 👋
+# Hi, I'm joswin 👋
 
 I'm a passionate FullStack developer with a strong love for creating innovative web applications. 
 I thrive on turning ideas into functional and user-friendly software that makes a positive impact. 
