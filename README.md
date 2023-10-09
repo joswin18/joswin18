@@ -25,8 +25,7 @@ I'm always open to exciting new opportunities and collaborations. If you have a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joswin18/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-violet)](https://yourportfolio.com)
 
-### 🌄 A Favorite Quote
-
+> [!favourite quote]
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 Thanks for stopping by! Let's create something amazing together. 😄
