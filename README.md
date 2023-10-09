@@ -22,8 +22,8 @@ Welcome to my corner of the digital universe, where code meets creativity!
 
 I'm always open to exciting new opportunities and collaborations. If you have a project or just want to chat about technology, feel free to reach out!
 
-[![LinkedIn](https://www.linkedin.com/in/joswin18/)
-[![Portfolio](https://joswin-portfolio.netlify.app/)
+[![LinkedIn](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BQFJpnjjPSKyBmX67doiYYA%3D%3D)](https://www.linkedin.com/in/joswin18/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
 
 ### 🌄 A Favorite Quote
 
