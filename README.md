@@ -23,7 +23,7 @@ Welcome to my corner of the digital universe, where code meets creativity!
 I'm always open to exciting new opportunities and collaborations. If you have a project or just want to chat about technology, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joswin18/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-violet)]([https://yourportfolio.com](https://joswin-portfolio.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-violet)](https://joswin-portfolio.netlify.app/)
 
 > [!NOTE]
 > "The only way to do great work is to love what you do." - Steve Jobs
