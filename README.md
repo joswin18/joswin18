@@ -30,7 +30,7 @@ I'm always open to exciting new opportunities and collaborations. If you have a 
 [![Email](https://img.shields.io/badge/Email-ffc04a?style=for-the-badge&logo=gmail)](mailto:joswinpsatheesh544@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-violet)](https://joswin-portfolio.netlify.app/) -->
 
-<!-- > [!NOTE]
+<!-- >  [!NOTE]
 > "The only way to do great work is to love what you do." - Steve Jobs -->
 > "The best way to predict the future is to create it." - Peter Drucker
 
