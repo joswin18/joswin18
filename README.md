@@ -25,9 +25,10 @@ Welcome to my corner of the digital universe, where code meets creativity!
 I'm always open to exciting new opportunities and collaborations. If you have a project or just want to chat about technology, feel free to reach out!
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joswin18/) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4585C3?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/joswin18/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4585C3?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joswin18/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x)](https://twitter.com/joswinpsatheesh)
 [![Email](https://img.shields.io/badge/Email-ffc04a?style=for-the-badge&logo=gmail)](mailto:joswinpsatheesh544@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-b190ff?style=for-the-badge&logo=next.js)](https://joswin-portfolio.vercel.app/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-violet)](https://joswin-portfolio.netlify.app/) -->
 
 <!-- >  [!NOTE]
