@@ -11,7 +11,7 @@ Welcome to my corner of the digital universe, where code meets creativity!
 - **Frontend**: React, Redux, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
-- **Deployment & Hosting**: Heroku, Netlify, AWS, Firebase
+- **Deployment & Hosting**: Heroku, Netlify, AWS, Firebase, vercel
 - **Version Control**: Git, GitHub
 
 ### 🚀 What I Love
